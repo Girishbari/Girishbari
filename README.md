@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Girishbari
-- 👀 I’m interested in IT and lots of stuff
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me girishbari15@gmai.com
+- 👀 I’m obessed with Blockchain, solidity and the things around it
+- 🌱 I’m currently learning cs and exploring The Ethereum Blockchain
+- 💞️ I’m looking to collaborate on any project related to Dapp Development, Solidity work and Web-Development
+- 📫 How to find me girishbari15@gmail.com
 
 <!---
 Girishbari/Girishbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
